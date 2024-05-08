@@ -13,3 +13,7 @@ Reason: The "message" feature involves multiple components working together, inc
 Answer: Yes, I would use a unit test to test the “max message length” feature of a messaging application.
 
 Reason: The "max message length" feature is a specific constraint applied to a function or method within the messaging application. A unit test can verify that the function correctly enforces the maximum length constraint by providing inputs of varying lengths (e.g., less than, equal to, and greater than 80 characters). This ensures that the function behaves as expected and restricts the length of the message appropriately, making unit testing an effective way to confirm the correct behavior of this feature.
+
+https://ucsdjonghun.github.io/Lab5_Starter/explore.html
+
+https://ucsdjonghun.github.io/Lab5_Starter/expose.html
